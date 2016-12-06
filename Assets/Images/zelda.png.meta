@@ -1,0 +1,2005 @@
+fileFormatVersion: 2
+guid: 0a7ac969a6be78643a49034cdad5128c
+timeCreated: 1480315336
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zelda_0
+    21300002: zelda_1
+    21300004: zelda_2
+    21300006: zelda_3
+    21300008: zelda_4
+    21300010: zelda_5
+    21300012: zelda_6
+    21300014: zelda_7
+    21300016: zelda_8
+    21300018: zelda_9
+    21300020: zelda_10
+    21300022: zelda_11
+    21300024: zelda_12
+    21300026: zelda_13
+    21300028: zelda_14
+    21300030: zelda_15
+    21300032: zelda_16
+    21300034: zelda_17
+    21300036: zelda_18
+    21300038: zelda_19
+    21300040: zelda_20
+    21300042: zelda_21
+    21300044: zelda_22
+    21300046: zelda_23
+    21300048: zelda_24
+    21300050: zelda_25
+    21300052: zelda_26
+    21300054: zelda_27
+    21300056: zelda_28
+    21300058: zelda_29
+    21300060: zelda_30
+    21300062: zelda_31
+    21300064: zelda_32
+    21300066: zelda_33
+    21300068: zelda_34
+    21300070: zelda_35
+    21300072: zelda_36
+    21300074: zelda_37
+    21300076: zelda_38
+    21300078: zelda_39
+    21300080: zelda_40
+    21300082: zelda_41
+    21300084: zelda_42
+    21300086: zelda_43
+    21300088: zelda_44
+    21300090: zelda_45
+    21300092: zelda_46
+    21300094: zelda_47
+    21300096: zelda_48
+    21300098: zelda_49
+    21300100: zelda_50
+    21300102: zelda_51
+    21300104: zelda_52
+    21300106: zelda_53
+    21300108: zelda_54
+    21300110: zelda_55
+    21300112: zelda_56
+    21300114: zelda_57
+    21300116: zelda_58
+    21300118: zelda_59
+    21300120: zelda_60
+    21300122: zelda_61
+    21300124: zelda_62
+    21300126: zelda_63
+    21300128: zelda_64
+    21300130: zelda_65
+    21300132: zelda_66
+    21300134: zelda_67
+    21300136: zelda_68
+    21300138: zelda_69
+    21300140: zelda_70
+    21300142: zelda_71
+    21300144: zelda_72
+    21300146: zelda_73
+    21300148: zelda_74
+    21300150: zelda_75
+    21300152: zelda_76
+    21300154: zelda_77
+    21300156: zelda_78
+    21300158: zelda_79
+    21300160: zelda_80
+    21300162: zelda_81
+    21300164: zelda_82
+    21300166: zelda_83
+    21300168: zelda_84
+    21300170: zelda_85
+    21300172: zelda_86
+    21300174: zelda_87
+    21300176: zelda_88
+    21300178: zelda_89
+    21300180: zelda_90
+    21300182: zelda_91
+    21300184: zelda_92
+    21300186: zelda_93
+    21300188: zelda_94
+    21300190: zelda_95
+    21300192: zelda_96
+    21300194: zelda_97
+    21300196: zelda_98
+    21300198: zelda_99
+    21300200: zelda_100
+    21300202: zelda_101
+    21300204: zelda_102
+    21300206: zelda_103
+    21300208: zelda_104
+    21300210: zelda_105
+    21300212: zelda_106
+    21300214: zelda_107
+    21300216: zelda_108
+    21300218: zelda_109
+    21300220: zelda_110
+    21300222: zelda_111
+    21300224: zelda_112
+    21300226: zelda_113
+    21300228: zelda_114
+    21300230: zelda_115
+    21300232: zelda_116
+    21300234: zelda_117
+    21300236: zelda_118
+    21300238: zelda_119
+    21300240: zelda_120
+    21300242: zelda_121
+    21300244: zelda_122
+    21300246: zelda_123
+    21300248: zelda_124
+    21300250: zelda_125
+    21300252: zelda_126
+    21300254: zelda_127
+    21300256: zelda_128
+    21300258: zelda_129
+    21300260: zelda_130
+    21300262: zelda_131
+    21300264: zelda_132
+    21300266: zelda_133
+    21300268: zelda_134
+    21300270: zelda_135
+    21300272: zelda_136
+    21300274: zelda_137
+    21300276: zelda_138
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zelda_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 36
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 380
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 380
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 380
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 380
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 379
+        width: 64
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 379
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 379
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 379
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 379
+        width: 24
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_10
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 379
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 375
+        width: 36
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 346
+        width: 28
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 366
+        width: 8
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 366
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 366
+        width: 8
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 360
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 360
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 360
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 346
+        width: 64
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 344
+        width: 30
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 344
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 344
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_23
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 345
+        width: 28
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 356
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 356
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 345
+        width: 14
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 343
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 345
+        width: 8
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 345
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 345
+        width: 8
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 326
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 326
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 326
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_35
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 310
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_36
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 310
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_37
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 310
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_38
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 327
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 286
+        width: 24
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 294
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_42
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 286
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_43
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 286
+        width: 24
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_44
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 286
+        width: 48
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_45
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 286
+        width: 48
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_46
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 309
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 259
+        width: 25
+        height: 25
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_49
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 259
+        width: 25
+        height: 25
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_50
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 258
+        width: 32
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_51
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 258
+        width: 32
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_52
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 267
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_54
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 232
+        width: 25
+        height: 25
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_55
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 232
+        width: 25
+        height: 25
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_56
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 233
+        width: 23
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_57
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 234
+        width: 8
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_58
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 238
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_59
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 234
+        width: 22
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_60
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 238
+        width: 16
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_61
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 233
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 204
+        width: 28
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_63
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 214
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_64
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 214
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_65
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 223
+        width: 22
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_66
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 222
+        width: 42
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_67
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 223
+        width: 22
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_68
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 225
+        width: 16
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_69
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 170
+        width: 8
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_70
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 170
+        width: 8
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_71
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 199
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_73
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 180
+        width: 24
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_74
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 180
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_75
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 180
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_76
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 180
+        width: 24
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_77
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 199
+        width: 22
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_78
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 191
+        width: 8
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_79
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 191
+        width: 8
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_80
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 191
+        width: 8
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 199
+        width: 8
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_82
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 199
+        width: 22
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_83
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 199
+        width: 16
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_84
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 181
+        width: 63
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_85
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 170
+        width: 28
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_86
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 170
+        width: 63
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 36
+        height: 36
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_88
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 131
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_89
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 131
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_90
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 131
+        width: 80
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_91
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 131
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_92
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 131
+        width: 34
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_93
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 131
+        width: 69
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_94
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 132
+        width: 36
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_95
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 114
+        width: 8
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_96
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_97
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_98
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 114
+        width: 4
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_99
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_100
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 114
+        width: 4
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_101
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 114
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_102
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_103
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 110
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_104
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_105
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_106
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_107
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_108
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_109
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 110
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_110
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 110
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_111
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_112
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_113
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 114
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_114
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_115
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_116
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_117
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_118
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_119
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_120
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_121
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 110
+        width: 17
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_122
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_123
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_124
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 114
+        width: 7
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_125
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_126
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_127
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_128
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_129
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_130
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_131
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_132
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 114
+        width: 6
+        height: 9
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_133
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 97
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_134
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 35
+        width: 97
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_135
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 35
+        width: 97
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_136
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 35
+        width: 97
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_137
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_138
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 14
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
